@@ -1,29 +1,23 @@
-Requirements:
+###Requirements:
 
     1) Windows
     2).Net 4 framework
     3) iTunes must be installed
     4) Mounted image of MAC computer (adding instructions on how to do this later)
 
+###Usage
+
 Launch the program.  Four things will need to be set before you can begin parsing:
 
-Mounted MAC Drive
+Mounted MAC Drive: 	This will be the Root folder of your mounted MAC Image
 
-This will be the Root folder of your mounted MAC Image
+Location to Save Report: 	Self explanatory. The report will be a text document.  Best viewed with Notepad ++ or other similar program.
 
-Location to Save Report
+Name of User's Directory: 	This will be populated with the users directories once the root folder is selected. A user must be selected to continue.
 
-	Self explanatory. The report will be a text document.  Best viewed with Notepad ++ or other similar program.
+Select Plugins to Run: 	Choose which plugins you would like to run. You can run all of them, or multiple select.
 
-Name of User's Directory
-
-	This will be populated with the users directories once the root folder is selected. A user must be selected to continue.
-
-Select Plugins to Run
-
-	Choose which plugins you would like to run. You can run all of them, or multiple select.
-
-About the Plug-ins:
+###About the Plug-ins:
 
 There are about 45 plug-ins so far.  Each plugin can contain one or more plist files.  I have tried to fit each plug-in into a category:
 
